@@ -1,5 +1,3 @@
-/* modeloLogico: */
-
 CREATE TABLE Produto (
     ID_Produto Numeric(3) PRIMARY KEY,
     Nome_Produto Varchar(3),
